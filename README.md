@@ -32,7 +32,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C) - done till finish of book.
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) - done
 - [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
-- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/) - half done
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/) - done
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 - [How to Program an NES Game in C](https://nesdoug.com/)
 - [Write an OS from scratch](https://github.com/tuhdo/os01)
